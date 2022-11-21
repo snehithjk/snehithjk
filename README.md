@@ -3,7 +3,7 @@
 I'm a software developer 
 
 
-## What I'm upto:
+## Working on 📊
 
 :purple_heart: Kind people are my kinda people
 
@@ -15,9 +15,10 @@ I'm a software developer
 
 :sparkles: Child at heart (**i see the world as magical**)
 
-
->*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
-
+## Excelled in 🥇
+ 
+ Java
+ MyS
 
 ## Find me around the WWW🌎:
 
