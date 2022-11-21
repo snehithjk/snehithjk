@@ -1,13 +1,14 @@
 # Hello!:wave:
 
-I'm a software developer 
+I'm a software developer with three years of professional SWE experience. Currently, I am pursuing Master's at Cal Poly SLO studying AI aided system' performance gains.
 
+<br>
 
 ## Learning 📖
 
 🤖 Generative AI
 
-🐧 Replicating and ricing Linux, Low-level programming
+🐧 Replicating performant Linux, Low-level programming
 
 ☁️ Cloud computing, System design
 
