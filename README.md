@@ -3,34 +3,29 @@
 I'm a software developer 
 
 
-## Working on 📊
+## Learning 📖
 
-:purple_heart: Kind people are my kinda people
+🤖 Generative AI
 
-:100: Radical for Jesus
+🐧 Replicating and ricing Linux, Low-level programming
 
-:star: Uniquely naive tho independent
+☁️ Cloud computing, System design
 
-:apple: Beginner mindset (**open to learning**)
+<br>
 
-:sparkles: Child at heart (**i see the world as magical**)
+## Worked on 🥇
 
-## Excelled in 🥇
+ 🕸️ Java and Python backend
  
- Java
- MyS
+ 📚 SQL design and optimization
+ 
+ 🔗 RESTful APIs, Design patterns
+ 
+ <br>
 
-## Find me around the WWW🌎:
+## Profiles
 
-<p align="center"> 
-
-
-- Contributing on: <a href="https://github.com/PluckyPrecious"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
-
-
-- Trying to be up to good on: <a href="https://twitter.com/PluckyPrecious"><img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&style=social" alt="Twitter"></a> 
-
-
-- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://pluckys.home.blog/2019/11/01/the-journey-begins/">WordPress</a>
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/snehith-jk/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/snehithjk)
 
 
