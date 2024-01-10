@@ -1,4 +1,4 @@
-# Hello!:wave:
+# Hello!
 
 I'm a software developer with three years of professional SWE experience. Currently, I am pursuing Master's at Cal Poly SLO studying AI aided system' performance gains.
 
